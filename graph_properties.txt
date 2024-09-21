@@ -1,0 +1,9 @@
+Graph properties 
+============================================================== 
+Number of nodes: 1200 
+Number of edges: 4920 
+Number of features per node: 64 
+Average node degree: 4.10 
+Contains isolated nodes: False 
+Contains self-loops: False 
+Is undirected: False
